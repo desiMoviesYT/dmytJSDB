@@ -12,30 +12,6 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BODUyYThiZmEtZDhlYy00NWMyLWJlZDktNDcxNzE0M2VkMzlhXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR0,0,182,268_AL_.jpg"
   },
   {
-    "ID": 1018,
-    "Name": "A Aa...",
-    "Year": 2010,
-    "Category": "Hindi dubbed",
-    "Plot": "Anand and Anasuya meet each other on a train ride. The two eventually fall in love and have to fight for their relationship.",
-    "Artists": "Nithiin,Samantha, Anupama Parameshwaran, Nadia Moidu, Ananya, Anupama Parameshwaran and many more.",
-    "IMDB": "https://www.imdb.com/title/tt5684466/",
-    "Watch": "https://www.youtube.com/watch?v=R7aCOI4DuA0",
-    "Channel": "Aditya Movies - Telugu & Hindi",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE0OTgyZjgtYzUxNC00NDRiLTlhZTQtZTQyOTUwNTQwNjg4XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_UX182_CR0,0,182,268_AL_.jpg"
-  },
-  {
-    "ID": 1032,
-    "Name": "Jung Baaz (Naan Mahaan Alla)",
-    "Year": 2010,
-    "Category": "Hindi dubbed",
-    "Plot": "A happy guy whose life turns upside-down when he witness murder seeks justice on his own",
-    "Artists": "Karthi, Kajal Aggarwal, Jayaprakash, Soori",
-    "IMDB": "https://www.imdb.com/title/tt1507005/",
-    "Watch": "https://www.youtube.com/watch?v=2RFUSCy415A",
-    "Channel": "Goldmines Telefilms",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwNGZlNzQtYzU2YS00ZTY4LWEzY2YtMzg4OTcwOWQzM2Y1XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
-  },
-  {
     "ID": 1033,
     "Name": "Dum Biryani (Biriyani)",
     "Year": 2013,
@@ -72,6 +48,18 @@
     "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Seetharama_Raju.jpg/220px-Seetharama_Raju.jpg"
   },
   {
+    "ID": 1032,
+    "Name": "Jung Baaz (Naan Mahaan Alla)",
+    "Year": 2010,
+    "Category": "Hindi dubbed",
+    "Plot": "A happy guy whose life turns upside-down when he witness murder seeks justice on his own",
+    "Artists": "Karthi, Kajal Aggarwal, Jayaprakash, Soori",
+    "IMDB": "https://www.imdb.com/title/tt1507005/",
+    "Watch": "https://www.youtube.com/watch?v=2RFUSCy415A",
+    "Channel": "Goldmines Telefilms",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwNGZlNzQtYzU2YS00ZTY4LWEzY2YtMzg4OTcwOWQzM2Y1XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
     "ID": 509,
     "Name": "Cheetah The Power Of One (Athadu)",
     "Year": 2005,
@@ -82,6 +70,18 @@
     "Watch": "https://www.youtube.com/watch?v=LE9eSxwMwwM",
     "Channel": "Goldmines Telefilms",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYTNkMTMyMDEtZDQxYi00ZjBkLTkyYzYtYzdjY2JmYmRmMjBiXkEyXkFqcGdeQXVyNjE3MDAwMDk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+  },
+  {
+    "ID": 1018,
+    "Name": "A Aa...",
+    "Year": 2010,
+    "Category": "Hindi dubbed",
+    "Plot": "Anand and Anasuya meet each other on a train ride. The two eventually fall in love and have to fight for their relationship.",
+    "Artists": "Nithiin,Samantha, Anupama Parameshwaran, Nadia Moidu, Ananya, Anupama Parameshwaran and many more.",
+    "IMDB": "https://www.imdb.com/title/tt5684466/",
+    "Watch": "https://www.youtube.com/watch?v=R7aCOI4DuA0",
+    "Channel": "Aditya Movies - Telugu & Hindi",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE0OTgyZjgtYzUxNC00NDRiLTlhZTQtZTQyOTUwNTQwNjg4XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_UX182_CR0,0,182,268_AL_.jpg"
   },
   {
     "ID": 274,
