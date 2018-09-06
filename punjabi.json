@@ -12,6 +12,66 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BZmM4ZmIxMGUtNzc0MS00MGQzLWExMjMtMjUzMWNhMDc2MTdkXkEyXkFqcGdeQXVyNDU0Mzg1NTg@._V1_UY268_CR2,0,182,268_AL_.jpg"
   },
   {
+    "ID": 1056,
+    "Name": "Golak Bugni Bank Te Batua",
+    "Year": 2018,
+    "Category": "Punjabi",
+    "Plot": "A couple in love who run away because of rivalry of their families and the drama begins.",
+    "Artists": "Amrinder Gill, Sunidhi Chauhan, Bir Singh, Gurshabad, Gurpreet Maan, Bikk Dhillon",
+    "IMDB": "https://www.imdb.com/title/tt8108168/",
+    "Watch": "https://www.youtube.com/watch?v=l7E0kTvARsA",
+    "Channel": "Rhythm Boyz",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDI0NjgzMDYtMzNjOC00M2U5LWEwN2MtZmI0OTdmYTBlNDkyXkEyXkFqcGdeQXVyNjQwMjkzNTA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+  },
+   {
+    "ID": 1057,
+    "Name": "Kirdar - E - Sardar",
+    "Year": 2017,
+    "Category": "Punjabi",
+    "Plot": "Kirdar-E-Sardar is a Punjabi action film starring Nav Bajwa and Neha Pawar.",
+    "Artists": "Nav Bajwa, Dolly Bindra, K.S. Makhan",
+    "IMDB": "https://www.imdb.com/title/tt7920444/",
+    "Watch": "https://www.youtube.com/watch?v=-FG3UGlw2-Y",
+    "Channel": "Yellow Music",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTRlMWU5ZDctNDNiOS00NTBlLWFmNGQtNDlkZjJhZDg3OWZlXkEyXkFqcGdeQXVyODQ5NjUzMjc@._V1_UY268_CR3,0,182,268_AL_.jpg"
+  },
+   {
+    "ID": 1058,
+    "Name": "Bhagat Singh Di Udeek",
+    "Year": 2017,
+    "Category": "Punjabi",
+    "Plot": "An Army officer fighting for people’s rights, stopping crime and protecting his loved ones, he goes on a mission to fight evil.",
+    "Artists": "Arsh Chawla, B N Sharma, Sardar Sohi",
+    "IMDB": "https://www.imdb.com/news/ni61899110",
+    "Watch": "https://www.youtube.com/watch?v=aVRoaOZ7jgI",
+    "Channel": "Yellow Music",
+    "Poster": "https://i1.wp.com/4.bp.blogspot.com/-jsk8gSyHc9o/W1F7Tw3XMAI/AAAAAAAAGvs/6BggiTsNQ20tfcYnuaE6sV8ExZJ9kEdJACLcBGAs/s1600/bhagat-singh-di-udeek-0a.jpg"
+  },
+   {
+    "ID": 1059,
+    "Name": "Punjab Singh",
+    "Year": 2018,
+    "Category": "Punjabi",
+    "Plot": "Amritsar, a holy city of Punjab,India is ruled by a Mafia don Lally Sarkaria played by Kuljinder Sidhu where Punjab Singh comes to this city to earn his livelihood",
+    "Artists": "Gurjind Maan, Sarthi, Kuljinder Singh Sidhu",
+    "IMDB": "https://www.imdb.com/title/tt7860284/",
+    "Watch": "https://www.youtube.com/watch?v=X-3VXUznGdg",
+    "Channel": "Yellow Music",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzY5OTliYzMtYzY4ZC00ZjM3LWFkNWMtOWMyMDRlMTcxYjM5XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SY1000_CR0,0,748,1000_AL_.jpg"
+  },
+   {
+    "ID": 1060,
+    "Name": "Ik Onkar",
+    "Year": 2017,
+    "Category": "Punjabi",
+    "Plot": "Action punjabi film was released worldwide on 8th Dec, 2017",
+    "Artists": "Harpreet Singh, Gajendra Chauhan, Shivender Mahal, Sukhdeep Singh, Pramod Mahaute, Megha Sharma",
+    "IMDB": "https://www.youtube.com/watch?v=4u51PaIGCjc",
+    "Watch": "https://www.youtube.com/watch?v=4u51PaIGCjc",
+    "Channel": "Yellow Music",
+    "Poster": "https://i.ytimg.com/vi/xh5WV7gSzJo/maxresdefault.jpg"
+  },
+  {
     "ID": 796,
     "Name": "Disco Singh",
     "Year": 2014,
@@ -610,5 +670,17 @@
     "Watch": "https://www.youtube.com/watch?v=8MR2f1ybn0w",
     "Channel": "Kumar Films",
     "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjZWZhZjItODdlYi00Yzk4LWJmYWMtNGM0ZTU4OWI0M2QwXkEyXkFqcGdeQXVyMzE2MzA5MzI@._V1_UY268_CR83,0,182,268_AL_.jpg"
-  }
+  },
+  {
+    "ID": 10,
+    "Name": "",
+    "Year": 20,
+    "Category": "Punjabi",
+    "Plot": "",
+    "Artists": "",
+    "IMDB": "https://www.imdb.com/title/",
+    "Watch": "https://www.youtube.com/watch?v=",
+    "Channel": "",
+    "Poster": ""
+  },
 ]
